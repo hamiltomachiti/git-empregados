@@ -67,4 +67,5 @@ public class Empregado {
     public double getBonus() {
         return this.bonus;
     }
+
 }
